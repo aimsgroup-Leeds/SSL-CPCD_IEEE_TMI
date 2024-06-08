@@ -1,0 +1,1 @@
+python -W ignore Finetune_training_segmentation.py
