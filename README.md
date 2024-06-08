@@ -41,3 +41,17 @@ Contributors: Ziang Xu and Sharib Ali
   python test_detection.py
   python test_segmentation.py
   </code></pre>
+
+
+## Citation
+If you find the code useful in your research, please consider citing it:
+
+    @article{Xu_SSL-TMI_2024,
+      author = {Xu, Ziang and Rittscher, Jens and Ali, Sharib},
+       journal={IEEE Transactions on Medical Imaging}, 
+      title = {SSL-CPCD: Self-supervised learning with composite pretext-class discrimination loss for improved generalisability in endoscopic image analaysis},
+      year={2024},
+        volume={},
+        number={},
+        pages={}
+     }
